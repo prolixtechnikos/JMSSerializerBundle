@@ -1,5 +1,5 @@
 {
-    "name": "jms/serializer-bundle",
+    "name": "prolix/serializer-bundle",
     "type": "symfony-bundle",
     "description": "Allows you to easily serialize, and deserialize data of any complexity",
     "keywords": [
@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "jms/serializer": "^2.0",
+        "prolix/serializer": "2.1.*",
         "symfony/dependency-injection": "^3.3 || ^4.0",
         "symfony/framework-bundle": "^3.0 || ^4.0"
     },
